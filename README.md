@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/kotlin-original.svg" height="40" alt="Kotlin logo"  />
+  <img src="https://www.daily.co/blog/tips-for-designing-your-kotlin-sdk-supporting-java-users/" height="40" alt="Kotlin logo"  />
 </div>
 
 ###
